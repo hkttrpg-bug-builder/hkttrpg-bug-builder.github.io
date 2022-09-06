@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/hkttrpg-bug-builder.github.io/static/css/main.073c9b0a.css",
-    "main.js": "/hkttrpg-bug-builder.github.io/static/js/main.ef623eb8.js",
-    "static/js/787.a66d0f39.chunk.js": "/hkttrpg-bug-builder.github.io/static/js/787.a66d0f39.chunk.js",
-    "static/media/logo.svg": "/hkttrpg-bug-builder.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/hkttrpg-bug-builder.github.io/index.html",
-    "main.073c9b0a.css.map": "/hkttrpg-bug-builder.github.io/static/css/main.073c9b0a.css.map",
-    "main.ef623eb8.js.map": "/hkttrpg-bug-builder.github.io/static/js/main.ef623eb8.js.map",
-    "787.a66d0f39.chunk.js.map": "/hkttrpg-bug-builder.github.io/static/js/787.a66d0f39.chunk.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.5a5fa140.js",
+    "static/js/787.a66d0f39.chunk.js": "/static/js/787.a66d0f39.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.5a5fa140.js.map": "/static/js/main.5a5fa140.js.map",
+    "787.a66d0f39.chunk.js.map": "/static/js/787.a66d0f39.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.ef623eb8.js"
+    "static/js/main.5a5fa140.js"
   ]
 }
