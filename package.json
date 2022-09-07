@@ -1,7 +1,7 @@
 {
   "name": "hkttrpg-bug-builder",
   "version": "0.1.0",
-  "homepage": "hkttrpg-bug-builder.github.io",
+  "homepage": "https://hkttrpg-bug-builder.github.io",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
