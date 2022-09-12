@@ -1,0 +1,72 @@
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+input[type=number] {
+    -moz-appearance: textfield;
+}
+
+.poolDiv {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 3em 5em 3em;
+    grid-template-rows: 2.2em 1em 3em 2em;
+    margin-top: 1em
+}
+
+.poolHeader {
+    text-align: left;
+    font-size: 2em;
+    margin: 0px;
+    grid-column: 1 / span 3;
+}
+
+/* ---------- Small Headers ---------- */
+
+.inputHeader {
+    padding: 0px;
+    margin: 0px;
+    font-size: .8em;
+    font-weight: normal;
+    font-style: italic;
+    text-align: center;
+}
+
+/* ---------- Inputs ---------- */
+
+.inputsBox {
+    display: flex;
+    align-items: flex-start;
+}
+
+.pool {
+    text-align: center;
+    padding: 1px;
+    border-color: black;
+    border-width: 3px;
+    border-style: solid;
+}
+
+.pool:focus{
+    outline: none;
+}
+
+.smallPool {
+    font-size: 1.5em;
+}
+
+.leftPool {
+    border-right-width: 0px;
+}
+
+.rightPool {
+    border-left-width: 0px;
+}
+
+.largePool {
+    font-size: 3em;
+    grid-column: 2;
+    grid-row: 3 / span 2;
+}
