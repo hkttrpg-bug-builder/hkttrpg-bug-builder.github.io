@@ -53,6 +53,12 @@ input[type=number] {
     outline: none;
 }
 
+.largePool {
+    font-size: 3em;
+    grid-column: 2;
+    grid-row: 3 / span 2;
+}
+
 .smallPool {
     font-size: 1.5em;
 }
@@ -63,10 +69,4 @@ input[type=number] {
 
 .rightPool {
     border-left-width: 0px;
-}
-
-.largePool {
-    font-size: 3em;
-    grid-column: 2;
-    grid-row: 3 / span 2;
 }
